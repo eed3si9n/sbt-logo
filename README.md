@@ -1,4 +1,8 @@
-See [sbt-logo proposals](https://groups.google.com/d/msg/simple-build-tool/7_C1IPrIp2w/Mt7hfd03PWIJ) thread.
+
+  [1]: https://groups.google.com/d/msg/simple-build-tool/7_C1IPrIp2w/Mt7hfd03PWIJ
+  [2]: https://groups.google.com/d/msg/sbt-dev/X2kcjAvFlJE/zIlVD0wmlrgJ
+  
+See [sbt-logo proposals][2] thread on sbt-dev and [the original thread][1] on sbt.
 
 ### sample
 
